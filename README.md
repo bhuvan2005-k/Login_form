@@ -22,3 +22,6 @@ It demonstrates how to create and style a basic login form with simple client-si
 ---
 
 A small beginner project built to practice core web development skills.
+
+## Author
+Bhuvaneshwari K -[GitHub](https://github.com/bhuvan2005)
